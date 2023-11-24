@@ -27,7 +27,7 @@ body {
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
-     background: url(../images/bg-body.jpg);
+     background: url(../images/gradasi.jpg);
      background-position: center;
      background-repeat: no-repeat;
 }
@@ -323,7 +323,7 @@ ul.email li a {
 .openbtn {
      cursor: pointer;
      background-color: transparent;
-     color: white;
+     color: rgb(255, 255, 255);
      border: none;
 }
 
